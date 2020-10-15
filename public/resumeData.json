@@ -88,6 +88,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone made with React.js",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-d9e60.web.app/"
+      },
+      {
         "title": "COVID-19 Tracker",
         "category": "COVID-19 tracker with javaScript",
         "image": "COVID-19- tracker.jpg",
